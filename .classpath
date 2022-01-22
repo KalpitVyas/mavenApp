@@ -53,5 +53,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sanja/Downloads/apache-maven-3.8.4-bin.zip"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
