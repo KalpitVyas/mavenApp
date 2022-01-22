@@ -24,6 +24,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<fileName>java-jenkin-docker</fileName>
+		<finalName>java-jenkin-docker</finalName>
 	<build>
 </project>
