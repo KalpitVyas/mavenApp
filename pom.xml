@@ -23,7 +23,4 @@
 			<version>1.7.12</version>
 		</dependency>
 	</dependencies>
-	<build>
-		<finalName>java-jenkin-docker</finalName>
-	</build>
 </project>
